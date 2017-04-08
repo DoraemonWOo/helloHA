@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="hello">OptionsMenu!!!</string>
+    <string name="save">保存</string>
+    <string name="exit">退出</string>
+    <string name="newf">新建</string>
+    <string name="open">打开</string>
+    <string name="hello1">ContextMenu</string>
+</resources>
